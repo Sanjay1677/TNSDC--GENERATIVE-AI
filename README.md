@@ -1,10 +1,13 @@
 # TNSDC--GENERATIVE-AI
 
 Lion Image Generation using Generative Adversarial Network (GAN)
-Overview
+
+Overview:
+
 This project aims to generate realistic and diverse images of lions using Generative Adversarial Networks (GANs). Leveraging deep learning techniques, the model learns to create lifelike representations of lions by training on a curated dataset of lion images. The generated images hold potential applications in wildlife conservation, education, digital media, and art.
 
-Key Features
+Key Features:
+
 Utilizes GAN architecture for image generation.
 Incorporates deep convolutional neural networks (CNNs) for feature extraction.
 Implements feature matching to enhance image quality.
